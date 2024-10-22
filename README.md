@@ -1,2 +1,3 @@
-# PresidentRhetoric
-This project delves into the analysis of presidential speeches to unveil patterns in communication strategies by various administrations throughout history
+# Decoding Presidential Rhetoric
+This project delves into the analysis of presidential speeches to unveil patterns in communication strategies by various administrations throughout history. Utilizing web scraping techniques, we collected data from the University of California, Santa Barbara Presidency Project. Through exploratory analysis, we identified prominent words and calculate pairwise distances among presidents. Sentiment analyses were then conducted which provided insights into the emotional sentiments conveyed in the speeches. Our findings shed light on the nuanced differences in communication styles across presidents and have significant implications for understanding the impact of presidential rhetoric on American politics and society.
+
